@@ -1,0 +1,199 @@
+*{margin: 0;
+    padding: 0;
+
+}
+
+/* header start*/
+
+header{
+    
+}
+.container{
+    width:80%;
+    margin: 0 auto;
+    overflow: hidden;
+    
+    
+}
+.logo{
+    width: 15%;
+     float:left;
+}
+.logo img{
+    width: 100%;
+   
+}
+.menu{
+    width: 50%;
+    float: right;
+    margin-top: 4px;
+}
+.menu ul{
+    
+}
+
+.menu ul li {
+    list-style: none;
+}
+.menu ul li a {
+       text-decoration: none;
+    float: left;
+    padding: 10px 0px;
+    margin-left: 70px;
+    transition: .03s;
+}
+
+
+
+
+.menu ul li a:hover {
+    background:#5B646D; 
+    border-radius: 10px;
+    color:white;
+    
+}
+/* header end*/
+
+/* Banner start*/
+.banner{
+    background-image:url(../project/image/css/banner-bg.jpg);
+    background-size:cover;
+   background-position:top;   
+          height: 600px;  
+        
+}
+
+
+
+
+
+.house{
+       margin-top: 100px;
+    margin-bottom: 100px;
+    width: 30%;
+    
+
+    
+}
+.house h1{
+        font-size: 45px;
+    color: white;
+}
+.house p{
+        color: white;
+    font-size: 25px;
+    margin-top: 5px;
+}
+
+.house button{
+    margin-top: 20px;
+    margin-left: 10px;
+    padding: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 5px;
+    background: #5B646D;
+    transition: .03s;
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.house button:hover{ 
+    color: white;
+}
+
+/* mid start*/
+.mid{
+    
+    
+
+}
+
+.mid1{
+    width: 30%;
+    margin-top: 30px;
+    text-align: center;
+    float:left;
+    margin-right: 35px;
+}
+.mid1 h1{
+    margin-bottom: 20px;
+   color: #728eb6;
+}
+
+/* mid end*/
+/* mid2 start*/
+
+
+.mid2{
+    
+}
+
+.button{ 
+    width:25%;
+    margin: 25px 25px;
+    padding: 20px;
+    text-align: center;
+    float:left;
+}
+.mid2 button{
+   background-color:#435D7E;
+    padding: 5px;
+    padding-right: 80px;
+    padding-left: 30px;
+    border-radius: 5px;
+    padding-top: 14px;
+    color:white;
+    
+}
+
+.licence h1{
+    text-align: center;
+    color:#728eb6
+    
+}
+
+.licence{
+    
+}
+.licence p{
+        text-align: center;
+    margin-top: 10px;
+}
+
+
+.commercial{
+    
+}
+
+.commercial h1{
+      margin-top: 120px; 
+    text-align: center;
+    color:#728eb6
+}
+
+
+
+.commercial p{
+       margin-top: 10px;
+    margin-bottom: 250px;
+    text-align: center;
+}
+
+.copyright{text-align: center;
+    
+}
+.copyright p{
+    
+}
+
+/* mid2 end*/
+
+.sosuchel{
+   
+    
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
